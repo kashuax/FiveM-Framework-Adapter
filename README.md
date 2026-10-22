@@ -3,8 +3,8 @@
 **Run one resource across ESX, QBCore, and QBOX** by hiding framework differences behind a tiny, stable interface: `FW.*`.
 This starter ships production-ready adapters, a minimal demo, tests, and CI.
 
-> Pillar article: https://fivemx.com/converting-fivem-scripts/
-> How to use this adapter: https://fivemx.com/adapter-patterns/
+> Pillar article: https://rpscripts.net/converting-fivem-scripts/
+> How to use this adapter: https://rpscripts.net/adapter-patterns/
 
 ---
 
